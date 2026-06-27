@@ -16,7 +16,7 @@
     <p>If the settings app didn't open automatically, click the button below:</p>
     
     <!-- The modified, fully explicit Intent layout -->
-    <a id="intentLink" class="btn" href="intent://#Intent;action=android.settings.SETTINGS;package=com.android.settings;select_main_activity=true;end">
+    <a id="intentLink" class="btn" href="intent:#Intent;action=android.settings.SETTINGS;package=com.android.settings;end">
         Open Settings Panel
     </a>
 
